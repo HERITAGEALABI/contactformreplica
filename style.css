@@ -239,7 +239,7 @@ footer{
 @media screen and (max-width: 962px){
     .top__bg{
         box-sizing: border-box;
-        margin-top:1rem;
+        margin-top:1.5rem;
         margin-left: auto;
         margin-right: auto;
         width:70%;
@@ -334,7 +334,7 @@ section{
 @media screen and (max-width: 768px) {
     .top__bg{
         box-sizing: border-box;
-        margin-top:1rem;
+        margin-top:1.5rem;
         margin-left: auto;
         margin-right: auto;
         width:70%;
@@ -422,7 +422,7 @@ section{
 @media screen and (max-width: 411px) {
     .top__bg{
         box-sizing: border-box;
-        margin-top:1rem;
+        margin-top:3rem;
         margin-left: auto;
         margin-right: auto;
         width:70%;
